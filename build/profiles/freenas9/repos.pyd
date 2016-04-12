@@ -27,49 +27,49 @@ repos += {
     "name": "freenas",
     "path": "freenas",
     "url": "http://github.com/freenas/freenas.git",
-    "branch": "896cc83"
+    "branch": "master"
 }
 
 repos += {
     "name": "trueos",
     "path": "trueos",
     "url": "https://github.com/trueos/trueos.git",
-    "branch": "1b72f49"
+    "branch": "freebsd10"
 }
 
 repos += {
     "name": "ports",
     "path": "ports",
     "url": "https://github.com/freebsd/freebsd-ports.git",
-    "branch": "b48035a"
+    "branch": "branches/2016Q1"
 }
 
 repos += {
     "name" :"py-licenselib",
     "path": "py-licenselib",
     "url": "https://github.com/freenas/licenselib.git",
-    "branch": "8c0c25d"
+    "branch": "master"
 }
 
 repos += {
     "name": "py-libzfs",
     "path": "py-libzfs",
     "url": "https://github.com/freenas/py-libzfs.git",
-    "branch": "faa3e92"
+    "branch": "master"
 }
 
 repos += {
     "name": "samba",
     "path": "samba",
     "url": "https://github.com/freenas/samba.git",
-    "branch": "0fb8e6f"
+    "branch": "v4-3-stable"
 }
 
 repos += {
     "name": "zfsd",
     "path": "zfsd",
     "url": "https://github.com/freenas/zfsd.git",
-    "branch": "a5f1df3"
+    "branch": "master"
 }
 
 if PRODUCT == "TrueNAS":
