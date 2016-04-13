@@ -28,7 +28,7 @@ repos += {
     "path": "freenas",
     "url": "http://github.com/freenas/freenas.git",
     "branch": "master",
-    "commit":"896cc83"
+    "commit":"d569fab"
 }
 
 repos += {
@@ -36,7 +36,7 @@ repos += {
     "path": "trueos",
     "url": "https://github.com/trueos/trueos.git",
     "branch": "freebsd10",
-    "commit": "1b72f49",
+    "commit": "1b72f49"
 }
 
 repos += {
@@ -68,7 +68,7 @@ repos += {
     "path": "samba",
     "url": "https://github.com/freenas/samba.git",
     "branch": "v4-3-stable",
-    "commit": "0fb8e6f"
+    "commit": "85bc179"
 }
 
 repos += {
